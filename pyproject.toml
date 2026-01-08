@@ -1,0 +1,21 @@
+[project]
+name = "pml_supercond"
+version = "0.0.0"
+description = "Predicting Tc of superconducting materials"
+authors = [
+  { name = "Amy Xu", email = "ax214@cam.ac.uk" },
+  { name = "Oliver Broad", email = "ob369@cam.ac.uk"}
+]
+readme = "README.md"
+requires-python = ">=3.12"
+
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "matplotlib",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"

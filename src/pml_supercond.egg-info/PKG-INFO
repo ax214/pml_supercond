@@ -1,0 +1,23 @@
+Metadata-Version: 2.4
+Name: pml_supercond
+Version: 0.0.0
+Summary: Predicting Tc of superconducting materials
+Author-email: Amy Xu <ax214@cam.ac.uk>, Oliver Broad <ob369@cam.ac.uk>
+Requires-Python: >=3.12
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Requires-Dist: numpy
+Requires-Dist: scipy
+Requires-Dist: pandas
+Requires-Dist: matplotlib
+Dynamic: license-file
+
+# pml_supercond
+Predicting Tc of superconducting materials. Repo for Amy &amp; Olly's project for the Python and Machine Learning for Experimental Science course
+
+## Description
+
+## Getting started
+
+## Usage
+
