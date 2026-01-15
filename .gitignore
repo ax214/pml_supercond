@@ -3,5 +3,3 @@ _build/
 .env
 *.pyc
 data/
-
-# Unga bunga
