@@ -19,3 +19,5 @@ Predicting Tc of superconducting materials. Repo for Amy &amp; Olly's project fo
 # Principal component analysis ?
 
 # Cry
+
+# convex hull ???
